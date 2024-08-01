@@ -1,5 +1,6 @@
-package com.levandr.simpleapp;
+package com.levandr.simpleapp.controller;
 
+import com.levandr.simpleapp.entity.Task;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

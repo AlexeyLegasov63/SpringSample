@@ -1,4 +1,4 @@
-package com.levandr.simpleapp;
+package com.levandr.simpleapp.entity;
 
 import lombok.Data;
 
